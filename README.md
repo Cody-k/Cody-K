@@ -1,19 +1,30 @@
 # Cody Kickertz
 
-**Senior Data Scientist** | Full-Stack Engineer | AI/ML Infrastructure | Healthcare Analytics
+**Data Scientist** | Full-Stack Engineer | AI/ML Infrastructure | Healthcare Analytics
 
-Building production data systems at scale. Former Marine Corps Captain (top 10-15% rated). MBA Candidate at UT McCombs.
+Building production data systems at scale. Former Marine Corps Captain. MBA Candidate at UT McCombs.
 
 ---
 
 ## Technical Stack
 
-**Languages:** Python · JavaScript/React · SQL · R · Fish/Bash
-**Frameworks:** FastAPI · React · Pandas · Polars · SQLAlchemy · Celery
-**Databases:** PostgreSQL · AWS Redshift · Redis · Qdrant · Elasticsearch · ChromaDB
-**AI/ML:** RAG · Vector Embeddings · NLP (scispaCy) · LLMs (OpenAI, Anthropic, Ollama)
-**DevOps:** Docker · Portainer · Git · systemd
-**Domain:** Healthcare Analytics · GDPR · Scientific Computing
+**Languages**  
+Python · JavaScript/React · SQL · R · Fish/Bash
+
+**Frameworks**  
+FastAPI · React · Pandas · Polars · SQLAlchemy · Celery
+
+**Databases**  
+PostgreSQL · AWS Redshift · Redis · Qdrant · Elasticsearch · ChromaDB
+
+**AI/ML**  
+RAG · Vector Embeddings · NLP (scispaCy) · LLMs (OpenAI, Anthropic, Ollama)
+
+**DevOps**  
+Docker · Portainer · Git · systemd
+
+**Domain**  
+Healthcare Analytics · GDPR · Scientific Computing
 
 ---
 
@@ -49,7 +60,5 @@ Production utilities for LLM applications: LLM-as-Judge evaluation, vector searc
 
 ## Contact
 
-**LinkedIn:** [linkedin.com/in/Cody-Kickertz](https://linkedin.com/in/Cody-Kickertz/)
+**LinkedIn:** [linkedin.com/in/Cody-Kickertz](https://linkedin.com/in/Cody-Kickertz/)  
 **Email:** Cody.Kickertz@pm.me
-
-Open to opportunities in healthcare innovation, scientific research, space exploration, and mission-driven technology.
