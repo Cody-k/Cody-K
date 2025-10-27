@@ -1,32 +1,61 @@
-Hi, I'm Cody Kickertz
+# Cody Kickertz
 
-I am a Data Analyst and Business Intelligence professional with a diverse background in database management, data visualization, and project coordination. My work is driven by a passion for transforming complex data into actionable insights that support strategic decision-making.
+  **Data Scientist** | Full-Stack Engineer | AI/ML Infrastructure | Healthcare Analytics
 
-Professional Experience:
+  Building production data systems at scale. Former Marine Corps Captain. MBA Candidate at UT McCombs.
 
-- Database & Business Intelligence Analyst at Summus Global (2023 - current): I lead key projects that enhance data quality and accessibility, develop Tableau dashboards tracking 20+ KPIs, and optimize data models using AWS Redshift. My focus is on delivering actionable insights that drive business success.
+  ---
 
-- Captain, United States Marine Corps (2018 - 2023): I served as second-in-command of the Marine Corps' largest disbursing office, leading a team of 157 Marines and 12 civilians. My leadership roles included managing a $60,000 annual operating budget, leading process improvement initiatives, and coordinating financial operations during a 7-month deployment across 15 European countries. My time in the USMC honed my leadership, project management, and operational efficiency skills in high-stakes environments.
+  ## Technical Stack
 
-- Cyber Security Research Intern at Clarkson Aerospace Corp (2015 - 2018): I collaborated on data mining projects for the Air Force Research Laboratory, including the development of a predictive intrusion detection system. I presented findings at high-profile venues, including the Pentagon and Georgia Institute of Technology, contributing to advancements in cybersecurity research.
+  **Languages:** Python · JavaScript/React · SQL · R · Fish/Bash
+  **Frameworks:** FastAPI · React · Pandas · SQLAlchemy · Celery · LangChain
+  **Databases:** PostgreSQL · AWS Redshift · Redis · Qdrant · Elasticsearch · ChromaDB
+  **AI/ML:** RAG Systems · Vector Embeddings · NLP (scispaCy) · LLM Integration (OpenAI, Anthropic, Ollama)
+  **DevOps:** Docker · Portainer · Git · systemd · Infrastructure Automation
+  **Domain:** Healthcare Analytics · GDPR Compliance · Scientific Computing
 
-Education & Certifications:
+  ---
 
-- Master of Business Administration (MBA) Candidate (2024 - current): McCombs School of Business, University of Texas at Austin.
-- Bachelor of Science in Computer Information Systems (2018): College of Technology, University of Houston.
-- Lean Six Sigma Yellow Belt (2023)
-- Financial Management Certification, Level Two (2022)
-🛠Skills & Tools:
+  ## Featured Projects
 
-- Data Analysis: SQL, Python, R
-- Data Visualization: Tableau, Excel
-- Cloud Computing: AWS, Redshift
-- Project Management: Agile methodologies, Cross-functional leadership
-- Leadership: Military leadership, process improvement, operational management
-  Passion for Space Exploration:
+  ### Medical Taxonomy Management System (Professional)
+  Full-stack healthcare application managing 198,697 hierarchical medical code classifications with React UI, FastAPI backend, and 4-database architecture (PostgreSQL, Redis, Qdrant,
+  Elasticsearch). NLP pipeline with scispaCy extracted 546,647 medical terms.
+  **Tech:** React · FastAPI · PostgreSQL · NLP · Vector Search · Distributed Systems
 
-Outside of work, I am deeply interested in space exploration and NASA's mission to expand our understanding of the universe. I regularly engage with NASA's open datasets and incorporate them into my personal projects, which will soon be featured here in my GitHub repositories. This ongoing exploration not only fuels my curiosity but also sharpens my data analysis skills.
+  ### AI Prompt Engineering Framework (Coming Soon)
+  Automated prompt optimization with LLM-as-Judge evaluation, bias detection, and DSPy algorithmic optimization. 96% test pass rate.
+  **Tech:** Python · LangChain · ChromaDB · DSPy · Vector Embeddings
 
-Let's Collaborate:
+  ### System Automation Framework (Coming Soon)
+  38 automation scripts (3,235 LOC) with unified 27-command CLI for system management, performance tuning, and disaster recovery.
+  **Tech:** Fish Shell · Bash · systemd · Performance Optimization
 
-I'm always open to collaboration on data-driven projects that challenge my skills and expand my knowledge, particularly in areas that align with my interests in space and data science.
+  ---
+
+  ## Current Work
+
+  **Data Scientist @ Summus Global** (Healthcare Technology)
+  - Architected GenAI transcript analysis system (Docker, FastAPI, ChromaDB, OpenAI)
+  - Built production systems processing 198,697 records and 5.7M+ events
+  - Major contributor to enterprise data integration (AWS Redshift, 216 tables, 2,125 columns)
+  - Developed full-stack applications (React + FastAPI + 4 databases)
+
+  **Previous:** US Marine Corps Finance Captain · Air Force Research Laboratory (Machine Learning, Cybersecurity)
+
+  ---
+
+  ## Education
+
+  **MBA** (in progress) - McCombs School of Business, UT Austin (2026)
+  **BS Computer Information Systems** - University of Houston (2018)
+
+  **Security:** Expired Secret Clearance - Clearable
+
+  ---
+
+  ## Stats
+
+  73,000+ lines of code across professional and personal projects · Full-stack capability (Python, React, SQL, APIs, DevOps) · Production systems with proper testing, monitoring, and
+  disaster recovery
