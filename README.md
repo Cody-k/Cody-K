@@ -1,61 +1,55 @@
 # Cody Kickertz
 
-  **Data Scientist** | Full-Stack Engineer | AI/ML Infrastructure | Healthcare Analytics
+**Senior Data Scientist** | Full-Stack Engineer | AI/ML Infrastructure | Healthcare Analytics
 
-  Building production data systems at scale. Former Marine Corps Captain. MBA Candidate at UT McCombs.
+Building production data systems at scale. Former Marine Corps Captain (top 10-15% rated). MBA Candidate at UT McCombs.
 
-  ---
+---
 
-  ## Technical Stack
+## Technical Stack
 
-  **Languages:** Python · JavaScript/React · SQL · R · Fish/Bash
-  **Frameworks:** FastAPI · React · Pandas · SQLAlchemy · Celery · LangChain
-  **Databases:** PostgreSQL · AWS Redshift · Redis · Qdrant · Elasticsearch · ChromaDB
-  **AI/ML:** RAG Systems · Vector Embeddings · NLP (scispaCy) · LLM Integration (OpenAI, Anthropic, Ollama)
-  **DevOps:** Docker · Portainer · Git · systemd · Infrastructure Automation
-  **Domain:** Healthcare Analytics · GDPR Compliance · Scientific Computing
+**Languages:** Python · JavaScript/React · SQL · R · Fish/Bash
+**Frameworks:** FastAPI · React · Pandas · Polars · SQLAlchemy · Celery
+**Databases:** PostgreSQL · AWS Redshift · Redis · Qdrant · Elasticsearch · ChromaDB
+**AI/ML:** RAG · Vector Embeddings · NLP (scispaCy) · LLMs (OpenAI, Anthropic, Ollama)
+**DevOps:** Docker · Portainer · Git · systemd
+**Domain:** Healthcare Analytics · GDPR · Scientific Computing
 
-  ---
+---
 
-  ## Featured Projects
+## Featured Projects
 
-  ### Medical Taxonomy Management System (Professional)
-  Full-stack healthcare application managing 198,697 hierarchical medical code classifications with React UI, FastAPI backend, and 4-database architecture (PostgreSQL, Redis, Qdrant,
-  Elasticsearch). NLP pipeline with scispaCy extracted 546,647 medical terms.
-  **Tech:** React · FastAPI · PostgreSQL · NLP · Vector Search · Distributed Systems
+### [NASA Mars Sol 200 Analysis](https://github.com/Cody-k/nasa_mars_sol_200_analysis)
+Curiosity Rover mission data analysis with RAD parser and modern Python tooling.
+`Python` `Polars` `Scientific Computing` `pytest`
 
-  ### AI Prompt Engineering Framework (Coming Soon)
-  Automated prompt optimization with LLM-as-Judge evaluation, bias detection, and DSPy algorithmic optimization. 96% test pass rate.
-  **Tech:** Python · LangChain · ChromaDB · DSPy · Vector Embeddings
+### [AI Infrastructure Toolkit](https://github.com/Cody-k/ai_infrastructure_toolkit)
+Production utilities for LLM applications: LLM-as-Judge evaluation, vector search, prompt templates.
+`Python` `ChromaDB` `Vector Search` `RAG` `LLM`
 
-  ### System Automation Framework (Coming Soon)
-  38 automation scripts (3,235 LOC) with unified 27-command CLI for system management, performance tuning, and disaster recovery.
-  **Tech:** Fish Shell · Bash · systemd · Performance Optimization
+---
 
-  ---
+## Professional Work
 
-  ## Current Work
+**Data Scientist @ Summus Global** (Healthcare Technology)
+- Production systems processing 198,697 records and 5.7M+ events
+- Full-stack applications (React + FastAPI + 4-database architecture)
+- GenAI transcript analysis, enterprise data integration, medical taxonomy
+- NLP pipeline extracting 546,647 medical terms with vector embeddings
 
-  **Data Scientist @ Summus Global** (Healthcare Technology)
-  - Architected GenAI transcript analysis system (Docker, FastAPI, ChromaDB, OpenAI)
-  - Built production systems processing 198,697 records and 5.7M+ events
-  - Major contributor to enterprise data integration (AWS Redshift, 216 tables, 2,125 columns)
-  - Developed full-stack applications (React + FastAPI + 4 databases)
+**Former:** US Marine Corps Captain · AFRL (Machine Learning, Cybersecurity)
 
-  **Previous:** US Marine Corps Finance Captain · Air Force Research Laboratory (Machine Learning, Cybersecurity)
+---
 
-  ---
+## Stats
 
-  ## Education
+73,000+ LOC across professional and personal projects · Full-stack (Python, React, SQL, APIs, DevOps) · Production systems with testing and disaster recovery
 
-  **MBA** (in progress) - McCombs School of Business, UT Austin (2026)
-  **BS Computer Information Systems** - University of Houston (2018)
+---
 
-  **Security:** Expired Secret Clearance - Clearable
+## Contact
 
-  ---
+**LinkedIn:** [linkedin.com/in/Cody-Kickertz](https://linkedin.com/in/Cody-Kickertz/)
+**Email:** Cody.Kickertz@pm.me
 
-  ## Stats
-
-  73,000+ lines of code across professional and personal projects · Full-stack capability (Python, React, SQL, APIs, DevOps) · Production systems with proper testing, monitoring, and
-  disaster recovery
+Open to opportunities in healthcare innovation, scientific research, space exploration, and mission-driven technology.
