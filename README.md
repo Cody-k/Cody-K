@@ -2,7 +2,7 @@
 
 **Data Scientist** | Full-Stack Engineer | AI/ML Infrastructure | Healthcare Analytics
 
-Building production data systems at scale. Former Marine Corps Captain. MBA Candidate at UT McCombs.
+Building data systems at scale. Former Marine Corps Captain. MBA Candidate at UT McCombs.
 
 ---
 
@@ -35,7 +35,7 @@ Curiosity Rover mission data analysis with RAD parser and modern Python tooling.
 `Python` `Polars` `Scientific Computing` `pytest`
 
 ### [AI Infrastructure Toolkit](https://github.com/Cody-k/ai_infrastructure_toolkit)
-Production utilities for LLM applications: LLM-as-Judge evaluation, vector search, prompt templates.
+Utilities for LLM applications: LLM-as-Judge evaluation, vector search, prompt templates.
 `Python` `ChromaDB` `Vector Search` `RAG` `LLM`
 
 ---
@@ -43,7 +43,7 @@ Production utilities for LLM applications: LLM-as-Judge evaluation, vector searc
 ## Professional Work
 
 **Data Scientist @ Summus Global** (Healthcare Technology)
-- Production systems processing 198,697 records and 5.7M+ events
+- Systems processing 198,697 records and 5.7M+ events
 - Full-stack applications (React + FastAPI + 4-database architecture)
 - GenAI transcript analysis, enterprise data integration, medical taxonomy
 - NLP pipeline extracting 546,647 medical terms with vector embeddings
@@ -54,7 +54,7 @@ Production utilities for LLM applications: LLM-as-Judge evaluation, vector searc
 
 ## Stats
 
-73,000+ LOC across professional and personal projects · Full-stack (Python, React, SQL, APIs, DevOps) · Production systems with testing and disaster recovery
+73,000+ LOC across professional and personal projects · Full-stack (Python, React, SQL, APIs, DevOps) · Systems with comprehensive testing
 
 ---
 
