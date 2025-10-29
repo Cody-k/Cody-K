@@ -38,6 +38,10 @@ Curiosity Rover mission data analysis with RAD parser and modern Python tooling.
 Utilities for LLM applications: LLM-as-Judge evaluation, vector search, prompt templates.
 `Python` `ChromaDB` `Vector Search` `RAG` `LLM`
 
+### [Infrastructure Automation Toolkit](https://github.com/Cody-k/infrastructure_automation_toolkit)
+DevOps utilities for Docker orchestration, system monitoring, and predictive resource management.
+`Python` `Docker` `DevOps` `Monitoring` `Infrastructure`
+
 ---
 
 ## Professional Work
